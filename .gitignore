@@ -1,0 +1,7 @@
+*.raw
+*.op.raw
+*.log
+*.net
+*.fft
+*.tmp
+*.mat

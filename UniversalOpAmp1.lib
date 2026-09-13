@@ -1,0 +1,12 @@
+﻿* High-stability UniversalOpAmp model with +/-13.5V saturation (TL082 equivalent)
+.subckt level1 1 2 3 4 5
+E1 5 0 TABLE {1e5*(V(1)-V(2))} (-13.5, -13.5) (13.5, 13.5)
+Rin 1 2 10Meg
+Rout 5 0 10
+.ends level1
+
+.subckt level2 1 2 3 4 5
+E1 5 0 TABLE {1e5*(V(1)-V(2))} (-13.5, -13.5) (13.5, 13.5)
+Rin 1 2 10Meg
+Rout 5 0 10
+.ends level2
