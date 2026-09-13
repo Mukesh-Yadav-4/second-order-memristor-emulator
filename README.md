@@ -285,4 +285,6 @@ If you use this circuit model, simulation code, or data in your research or acad
 ---
 
 ## 📜 License
-This project is open-source under the [MIT License](LICENSE).
+This project is open-source under the [MIT License](LICENSE) © 2026 Mukesh Yadav.
+
+> **Note on Intellectual Property:** The MIT License applies to the implementation code, circuit schematics, macro-models, and simulation scripts developed in this repository. All rights to the underlying theoretical model, original research paper, and publication content belong to the original authors (*Hairong Lin, Xiaoheng Deng, Yi Zhang, and Geyong Min*) and the **IEEE**.
